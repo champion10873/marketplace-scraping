@@ -1,0 +1,2 @@
+python mercado.py
+pause
